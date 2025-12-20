@@ -1,5 +1,4 @@
 # HTML Personal Page
-
 First HTML project to practice structure and semantic tags.
 
 ## Skills practiced
