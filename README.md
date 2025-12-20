@@ -7,3 +7,4 @@ First HTML project to practice structure and semantic tags.
  - Using Git and Github
  - Unordered HTML List
  - Anchor element
+ - Description list container
