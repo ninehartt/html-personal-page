@@ -9,3 +9,10 @@ First HTML project to practice structure and semantic tags.
  - Anchor element
  - Description list container
  - target attribute values
+
+ ## Elements learned
+ - headings
+ - paragraph
+ - lists (ordered, unordered, description)
+ - anchor (absolute, relative)
+ - iframe (to be studied again)
