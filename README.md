@@ -8,3 +8,4 @@ First HTML project to practice structure and semantic tags.
  - Unordered HTML List
  - Anchor element
  - Description list container
+ - target attribute values
